@@ -11,69 +11,76 @@ to Atomic and Nuclear Physics</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(3).pdf" style="text-decoration:none;">Nuclear physics: a course given by Enrico Fermi at the University of Chicago</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(4).pdf" style="text-decoration:none;">Theoretical Nuclear Physics In Italy</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(5).pdf" style="text-decoration:none;"> Viral Infections of Humans: Epidemiology and Control</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(6).pdf" style="text-decoration:none;">Antimicrobial Drug
-Resistance: Clinical and Epidemiological Aspects </a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(7).pdf" style="text-decoration:none;">AIDS Epidemiology: A Quantitative Approach</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(5).pdf" style="text-decoration:none;"> Nuclear Physics at
+Border Lines</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(6).pdf" style="text-decoration:none;">Nuclear Physics: Principles and Applications </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(7).pdf" style="text-decoration:none;">Elements of nuclear physics</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(8).pdf" style="text-decoration:none;">Lilienfeld's Foundations of Epidemiology</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(9).pdf" style="text-decoration:none;">Epidemics: Models and Data using R</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(8).pdf" style="text-decoration:none;">Intermediate-Energy
+Nuclear Physics</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(9).pdf" style="text-decoration:none;">Nuclear Physics and
+Interaction of Particles with Matter</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(10).pdf" style="text-decoration:none;">Brain Arteriovenous Malformations: Pathogenesis, Epidemiology, Diagnosis, Treatment and Outcome</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(11).pdf" style="text-decoration:none;"> Temporal Network
-Epidemiology</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(12).pdf" style="text-decoration:none;">Encyclopedia of Epidemiology (Vol 1-2)</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(13).pdf" style="text-decoration:none;">Research Methods in Occupational Epidemiology</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(10).pdf" style="text-decoration:none;">International Conference on
+Quark Nuclear Physics</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(11).pdf" style="text-decoration:none;"> Short-Distance Phenomena
+in Nuclear Physics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(12).pdf" style="text-decoration:none;">Nuclear Physics:
+Present and Future</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(13).pdf" style="text-decoration:none;">From collective states to quarks in nuclei</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(14).pdf" style="text-decoration:none;">Multivariate Methods
-in Epidemiology</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(14).pdf" style="text-decoration:none;">Nuclear physics: the core of matter, the fuel of stars</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(15).pdf" style="text-decoration:none;">Clinical Epidemiology: The Essentials</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(15).pdf" style="text-decoration:none;">Basic Concepts in
+Nuclear Physics: Theory, Experiments and Applications</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(16).pdf" style="text-decoration:none;">Introduction to Epidemiology</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(16).pdf" style="text-decoration:none;">Advances in Nuclear Physics: Volume 1</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(17).pdf" style="text-decoration:none;">Epidemiology for public health practice</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(17).pdf" style="text-decoration:none;">Nuclear Physics
+Explained</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(18).pdf" style="text-decoration:none;">Textbook of Epidemiology</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(18).pdf" style="text-decoration:none;">The Quantum World of Nuclear Physics</a></li> 
 
   
 <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(19).pdf" style="text-decoration:none;">Modern Epidemiology </a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(20).pdf" style="text-decoration:none;">Obesity, Epidemiology, Pathophysiology,
-and Prevention</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(20).pdf" style="text-decoration:none;">Mathematical and Computational Methods in Nuclear Physics: Proceedings of the Sixth Granada Workshop Held in Granada, Spain, October 3–8, 1983</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(21).pdf" style="text-decoration:none;">Statistical Models in Epidemiology</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(22).pdf" style="text-decoration:none;">Jekel's Epidemiology, Biostatistics,
-Preventive Medicine, and Public Health</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(23).pdf" style="text-decoration:none;">Biostatistics for
-Epidemiology and Public Health Using R</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(21).pdf" style="text-decoration:none;">Introductory Nuclear Physics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(22).pdf" style="text-decoration:none;">Nuclear Medicine Physics: The Basics</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(23).pdf" style="text-decoration:none;">X-rays in atomic and nuclear physics</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(24).pdf" style="text-decoration:none;">Hospital Epidemiology and Infection Control</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(24).pdf" style="text-decoration:none;">Physics Through the 1990s: nuclear physics  </a></li>
 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(25).pdf" style="text-decoration:none;">Rare Diseases Epidemiology</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(25).pdf" style="text-decoration:none;">Introduction to
+Supersymmetry in Particle and Nuclear Physics</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(26).pdf" style="text-decoration:none;">Epidemiology: Study Design and Data Analysis</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(26).pdf" style="text-decoration:none;">Nuclear Physics of Stars</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(27).pdf" style="text-decoration:none;">Handbook of Statistics (Vol 27)</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(28).pdf" style="text-decoration:none;">Epidemiology and Demography in Public Health</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(29).pdf" style="text-decoration:none;">Mathematical Epidemiology</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(27).pdf" style="text-decoration:none;">Computational Nuclear Physics 2</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(28).pdf" style="text-decoration:none;">QCD as a Theory of Hadrons: From Partons to Confinement</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(29).pdf" style="text-decoration:none;">An Advanced Course in Computational
+Nuclear Physics: Bridging the Scales from Quarks to Neutron Stars</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(30).pdf" style="text-decoration:none;">Human cancer: epidemiology and environmental causes</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(30).pdf" style="text-decoration:none;">Selected
+Exercises in Particle and Nuclear Physics</a></li>
 
 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(31).pdf" style="text-decoration:none;">The Metabolic Syndrome: Epidemiology, Clinical Treatment, and Underlying Mechanisms</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(31).pdf" style="text-decoration:none;">Electromagnetic Interactions and Hadronic Structure</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(32).pdf" style="text-decoration:none;">Forensic Epidemiology: Principles and Practice</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(32).pdf" style="text-decoration:none;">Lattice QCD for
+Nuclear Physics</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(33).pdf" style="text-decoration:none;">Lymphatic Filariasis: Epidemiology, Treatment and Prevention – The Indian Perspective</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(34).pdf" style="text-decoration:none;">Quantitative Methods for
-Health Research: A Practical Interactive Guide to Epidemiology and Statistics</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(35).pdf" style="text-decoration:none;">Statistical Methods for Environmental Epidemiology with R: A Case Study in Air Pollution and Health</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(33).pdf" style="text-decoration:none;">An Advanced Course
+in Modern Nuclear Physics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(34).pdf" style="text-decoration:none;">Interacting Bosons
+in Nuclear Physics</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(35).pdf" style="text-decoration:none;">The Physics of Warm Nuclei: With Analogies to Mesoscopic Systems</a></li> 
  
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(36).pdf" style="text-decoration:none;">The Demography and Epidemiology
