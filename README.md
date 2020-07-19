@@ -43,7 +43,7 @@ Explained</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(18).pdf" style="text-decoration:none;">The Quantum World of Nuclear Physics</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(19).pdf" style="text-decoration:none;">Modern Epidemiology </a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(19).pdf" style="text-decoration:none;">Advances in Nuclear Physics: Volume 7 </a></li> 
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(20).pdf" style="text-decoration:none;">Mathematical and Computational Methods in Nuclear Physics: Proceedings of the Sixth Granada Workshop Held in Granada, Spain, October 3–8, 1983</a></li>
 
@@ -100,7 +100,8 @@ In Nuclear Physics: From Nuclear Structure to Cosmology</a></li>
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(42).pdf" style="text-decoration:none;">Fundamentals of Nuclear Reactor Physics</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(43).pdf" style="text-decoration:none;"> Fundamentals of Epidemiology and Biostatistics I</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(43).pdf" style="text-decoration:none;">Nuclear Power Plants:
+Innovative Technologies for Instrumentation and Control Systems</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(44).pdf" style="text-decoration:none;">The Phases of Quantum Chromodynamics</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(45).pdf" style="text-decoration:none;">Stochastic Effects: Application in Nuclear Physics</a></li> 
  
