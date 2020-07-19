@@ -4,12 +4,13 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(1).pdf" style="text-decoration:none;">Computational Epidemiology</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(1).pdf" style="text-decoration:none;">Introduction
+to Atomic and Nuclear Physics</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(2).pdf" style="text-decoration:none;">Applied Epidemiology</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(2).pdf" style="text-decoration:none;">Concepts of Nuclear Physics</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(3).pdf" style="text-decoration:none;">Bayesian Disease Mapping: Hierarchical Modeling in Spatial Epidemiology</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(4).pdf" style="text-decoration:none;">Applied Epidemiologic Principles and Concepts</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(3).pdf" style="text-decoration:none;">Nuclear physics: a course given by Enrico Fermi at the University of Chicago</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(4).pdf" style="text-decoration:none;">Theoretical Nuclear Physics In Italy</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(5).pdf" style="text-decoration:none;"> Viral Infections of Humans: Epidemiology and Control</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Physics-Books/blob/master/nmg(6).pdf" style="text-decoration:none;">Antimicrobial Drug
 Resistance: Clinical and Epidemiological Aspects </a></li>
